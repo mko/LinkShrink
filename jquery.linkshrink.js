@@ -1,8 +1,8 @@
 /*
- * jQuery LinkShrink plugin
+ * LinkShrink jQuery plugin
  * Copyright (c) 2010 Michael Owens
  * http://mowens.com/experiments/#linkshrink
- * Dual licensed under the MIT or GPL Version 2 licenses.
+ * Licensed under the MIT License.
  *
  */
 (function(jQuery){
